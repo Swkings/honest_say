@@ -14,7 +14,7 @@ crack the honest_say of QQ
 ---
 
 
-![img](./img/add.png) 
+![img](https://github.com/Swkings/honest_say/blob/master/img/add.png  ) 
 
 4、选择刚才添加的设备，打开 链接 <a>https://ti.qq.com/honest-say/my-received.html</a>,打开链接前请按F12，用当前浏览器登录QQ空间
 ---
@@ -22,4 +22,4 @@ crack the honest_say of QQ
 5、按F12，在Network选项下点击XHR，然后点击请求获得的文件，在header中的最下方将token值复制即可
 ---
 
-![img](./img/add1.png) 
+![img](https://github.com/Swkings/honest_say/blob/master/img/add1.png) 
